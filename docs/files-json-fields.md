@@ -50,15 +50,15 @@ HTML 预览文件放在 `notes/课程目录/` 下，首页只读取 `data/files.
 
 ```json
 {
-  "note_id": "ultra-notes-of-medical-imaging",
-  "course": "医学影像学",
-  "category": "imaging",
-  "title": "Ultra Notes 医学影像学",
+  "note_id": "english-vocabulary-practice",
+  "course": "医学英语",
+  "category": "medical-english",
+  "title": "医学英语背单词",
   "type": "HTML",
   "date": "2026-06-20",
-  "previewUrl": "https://w-u2een.github.io/ultra-notes-of-medical-imaging/",
+  "previewUrl": "https://w-u2een.github.io/english-vocabulary-practice/",
   "source": "GitHub Pages 学习站",
-  "description": "系统整理医学影像学底层逻辑笔记，适合按章节阅读、搜索和复习。"
+  "description": "NJMU 医学英语 02 词汇练习站，适合背单词和自测。"
 }
 ```
 
