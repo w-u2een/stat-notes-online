@@ -70,3 +70,9 @@
 - 发布资料：儿科学时间数据速查：生长发育、计划免疫与婴儿喂养，类型：PDF，文件数：1，路径：`files/pediatrics/2026-09-09-pediatrics-timeline-data-notes.pdf`，日期：2026-09-09。
 - 发布资料：临床技能训练课程原文讲义（2026-2027学年第一学期），类型：PDF，文件数：1，路径：`files/surgery/2026-09-11-clinical-skills-course-textbook-extract.pdf`，日期：2026-09-11。
 - 发布资料：儿科学腹泻病综合笔记，类型：PDF，文件数：1，路径：`files/pediatrics/2026-10-19-pediatrics-diarrhea-integrated-notes.pdf`，日期：2026-10-19。
+
+## 2026-11-12
+
+- 将站点代号更新为 stat，仓库改为 `w-u2een/stat-notes-online`，同步各页面标题、站点名称与题库索引规范名称。
+- 更新医学英语与影像学入口的账号域名及发布说明；影像学项目当前无法访问，仍需核对项目是否保留。
+- 保留课程资料、课程大纲、题库与复习进度的现有内容和存储键。

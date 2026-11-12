@@ -1,6 +1,6 @@
 # GitHub Pages 配置说明
 
-本项目按公开 GitHub Pages 下载站设计。
+本项目按公开 GitHub Pages 下载站设计。当前仓库为 `w-u2een/stat-notes-online`，网址为 https://w-u2een.github.io/stat-notes-online/ 。
 
 ## 推荐设置
 

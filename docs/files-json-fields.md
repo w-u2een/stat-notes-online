@@ -56,7 +56,7 @@ HTML 预览文件放在 `notes/课程目录/` 下，首页只读取 `data/files.
   "title": "Ultra Notes 医学影像学",
   "type": "HTML",
   "date": "2026-06-20",
-  "previewUrl": "https://georgia59.github.io/ultra-notes-of-medical-imaging/",
+  "previewUrl": "https://w-u2een.github.io/ultra-notes-of-medical-imaging/",
   "source": "GitHub Pages 学习站",
   "description": "系统整理医学影像学底层逻辑笔记，适合按章节阅读、搜索和复习。"
 }
